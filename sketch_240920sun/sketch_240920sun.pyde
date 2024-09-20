@@ -1,0 +1,7 @@
+size(600,400)
+ellipseMode(CENTER)
+ellipse(300,200,130,130)
+strokeWeight(5)
+triangle(300,50, 350,120, 250,120)
+triangle(100,100, 95,65, 34,91)
+triangle(100,100, 95,65, 34,91)
